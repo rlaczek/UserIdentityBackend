@@ -1,0 +1,9 @@
+target*
+.idea*
+*.iml
+*.log
+testdb**
+**ldap-server-work**
+hsqldb*
+ldap*
+lucene*
